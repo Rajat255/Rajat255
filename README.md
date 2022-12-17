@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rajat255
 - 👀 I’m interested in Software Devlopment, Programming, AI and ML.
-- 🌱 I’m currently learning Python, Java, C/C++, and French and German.  
+- 🌱 I’m currently learning Web Development, Python, Java, C/C++, and French. 
 - 📫 Email: rajatkhirid@gmail.com
