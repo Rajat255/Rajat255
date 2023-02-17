@@ -1,5 +1,5 @@
 ## Hey there, <img src="https://user-images.githubusercontent.com/102016448/205023633-63deb91c-91cd-46ef-a2c1-aad0d361c279.gif" width="29"> I'm Rajat! 
- A passionate learner and an Open Source Enthusiast :)
+ A passionate learner
 - I’m currently working on some Web Development Projects.
 - I'm currently working as Cloud Intern and using AWS and Azure.
 - I’m currently learning Data Structures and Algorithms. 
