@@ -2,5 +2,5 @@
 <h2> Check out my Projects and feel free to reach me at:</h2>
 <h3> 
   <a href=rajatkhirid@gmail.com> Email </a> <br>
-  <a href=[linkedin.com/in/rajatkhirid/](https://www.linkedin.com/in/rajatkhirid/)https://www.linkedin.com/in/rajatkhirid/> Linkedin </a>
+  <a href=https://www.linkedin.com/in/rajatkhirid/> Linkedin </a>
 </h3>
